@@ -94,7 +94,7 @@ grep '^rose:' /etc/passwd
 
 ## 📷 Expected Output
 
-Add your terminal screenshot here.
+![alt text](image.png)
 
 ```
 images/output.png
