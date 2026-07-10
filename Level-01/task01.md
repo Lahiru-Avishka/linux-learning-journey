@@ -94,7 +94,7 @@ grep '^rose:' /etc/passwd
 
 ## 📷 Expected Output
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ```
 images/output.png
